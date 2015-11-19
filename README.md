@@ -1,2 +1,2 @@
 # Novice-Python
-studyt
+study
